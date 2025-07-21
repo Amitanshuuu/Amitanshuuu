@@ -53,4 +53,4 @@ I am a passionate Computer Science and Engineering student at Kalinga Institute 
 
 ---
 
-Feel free to connect with me for collaboration, projects, or just to chat about tech.
+Feel free to connect with me for collaboration, projects, or just to chat about tech
