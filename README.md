@@ -30,7 +30,7 @@ I am a passionate Computer Science and Engineering student at Kalinga Institute 
 - **Defence Research and Development Organisation (DRDO) | Summer Intern**
   - Worked in the CAN and DC (Command, Control, and Data Communication) Department, contributing to secure personnel data systems.
   - Developed an internal Employee Management System for tracking and managing employee records securely.
-- **Academic Excellence:** Cumulative GPA of 8.53/10 at KIIT.
+- **Academic Excellence:** Cumulative GPA of 8.73/10 at KIIT.
 - **Track Winner:** E-summit IIIT NAYA RAIPUR Hackathon.
 - **Zenga Tech Quiz:** 1st prize (cash reward of ₹5,000).
 - **National Youth Day Competition:** 3rd prize in Debate Competition.
